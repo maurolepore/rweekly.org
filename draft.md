@@ -109,6 +109,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Writing Signed Trinary: or, Back To the Four Weights Problem](https://rworks.dev/posts/back-to-four-weights/)
 
++ [Creating a better universe with dverse](https://pharmaverse.github.io/blog/posts/2024-12-13_document_yo.../document_your_universe_with_dverse.html) - How to create a global search across an entire collection of R packages: A use case for the toy ‘admiralverse’
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
