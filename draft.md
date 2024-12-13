@@ -74,6 +74,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [pinp 0.0.11 on CRAN: Maintenance](http://dirk.eddelbuettel.com/blog/2024/12/08#pinp_0.0.11)
 
++ [dverse 0.2.0: Can now link vignettes across any collection of packages](https://maurolepore.github.io/dverse/news/index.html#dverse-020)
 
 ### Videos and Podcasts
 
