@@ -90,7 +90,9 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 + [Collaborating Across Pharma: Open Source Highlights from the PHUSE US Connect 2024 Keynote](https://posit.co/blog/open-source-highlights-from-the-phuse-us-connect-2024-keynote/)
 
++ [Approaching Positron from VS Code for R](https://www.ixpantia.com/en/blog/positron-from-vs-code-for-r).
 
++ [Acercándose a Positron desde VS Code para R](https://www.ixpantia.com/es/blog/positron-desde-vs-code-para-r).
 
 ### Gist & Cookbook
 
